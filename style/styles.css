@@ -1,0 +1,38 @@
+h1{
+    color:darkred;
+    text-align: center;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: gray;
+}
+table{
+    margin-left: 150px;
+    color:brown;
+}
+h3{
+    margin-left: 150px;
+    color:darkred
+}
+.div2{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: lightgrey;
+}
+.div{
+    background-color: white;    
+    text-align: center;
+    padding: 20px;
+}
+.pad{
+    padding-left:150px
+}
+.pad2{
+    padding-left: 350px;
+}
+.button2{
+    background: gray;
+    height: 50px;
+    width: 100px;
+  }
